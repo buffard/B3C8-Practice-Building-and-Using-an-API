@@ -1,0 +1,72 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Linguine",
+      "type": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "name": "Red curry",
+      "type": "curry",
+      "ethnicity": "thai",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Green curry",
+      "type": "curry",
+      "ethnicity": "thai"
+    },
+    {
+      "id": 4,
+      "name": "Ravioli Funghi",
+      "type": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 5,
+      "name": "Tuscan Soup",
+      "type": "vegetarian",
+      "ethnicity": "italian"
+    },
+    {
+      "name": "doritos",
+      "type": "junk",
+      "ethnicity": "'murcan",
+      "id": 6
+    },
+    {
+      "name": "Sweet Potato Tacos",
+      "type": "tacos",
+      "ethnicity": "mexican",
+      "id": 7
+    },
+    {
+      "name": "Korean Beef Bowls",
+      "type": "bowl",
+      "ethnicity": "korean",
+      "id": 8
+    }
+  ],
+  "drinks": [
+    {
+      "name": "PBR",
+      "type": "blue ribbon",
+      "ethnicity": "beer",
+      "id": 1
+    },
+    {
+      "name": "water",
+      "type": "clear",
+      "ethnicity": "earth",
+      "id": 2
+    },
+    {
+      "name": "tequila",
+      "type": "regrettable",
+      "ethnicity": "drunk",
+      "id": 3
+    }
+  ]
+}
